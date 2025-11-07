@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Dreams are about to turn into reality",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Swap,Portfolio,Vaults,Rewards,Leaderboard,Markets",
+  "VITE_ENABLED_MENUS": "Trading,Portfolio,Vaults,Rewards,Leaderboard,Markets",
   "VITE_CUSTOM_MENUS": "TWS Gurukul, https://twsgurukul.com",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
